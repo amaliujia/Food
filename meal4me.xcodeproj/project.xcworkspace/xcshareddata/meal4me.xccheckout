@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F23F834C-752D-4410-9CB8-E00DFD1F8F94</string>
+	<key>IDESourceControlProjectName</key>
+	<string>meal4me</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>27D4F723-0436-41C3-AF3F-CE8666B6E651</key>
+		<string>https://github.com/applesysu/meal4me.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>meal4me.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>27D4F723-0436-41C3-AF3F-CE8666B6E651</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/applesysu/meal4me.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>27D4F723-0436-41C3-AF3F-CE8666B6E651</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>27D4F723-0436-41C3-AF3F-CE8666B6E651</string>
+			<key>IDESourceControlWCCName</key>
+			<string>meal4me</string>
+		</dict>
+	</array>
+</dict>
+</plist>

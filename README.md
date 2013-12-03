@@ -2,7 +2,7 @@ Food
 ====
 This iOS App aims to provide customers with the restaurant information and reservation service. 
 
-It provides a basic framework, therefore it's eary to use new API to quickly implement a new app.
+It provides a basic framework, therefore it should be easy to use new APIs to quickly implement a new app.
 
 
 Tip
